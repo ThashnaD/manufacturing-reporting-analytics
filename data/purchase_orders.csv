@@ -1,0 +1,181 @@
+purchase_order_id,supplier,material,ordered_qty,unit_cost,order_date,plant,status
+PUR8000,TimberSource,Starch,180.1,168.22,2025-03-03,Durban Mill,Closed
+PUR8001,ForestRaw,Process Water,239.28,142.05,2025-04-29,Durban Mill,Delayed
+PUR8002,BulkChem,Starch,253.03,155.2,2025-05-23,Pietermaritzburg Mill,Open
+PUR8003,BulkChem,Caustic Soda,214.48,81.1,2025-03-07,Durban Mill,Closed
+PUR8004,ChemSupply,Starch,231.98,100.46,2025-04-05,Durban Mill,Delayed
+PUR8005,ForestRaw,Wood Chips,157.71,137.59,2025-03-10,Richards Bay Mill,Delayed
+PUR8006,TimberSource,Clay,299.06,120.64,2025-01-11,Durban Mill,Open
+PUR8007,TimberSource,Bleach,224.71,171.07,2025-06-21,Pietermaritzburg Mill,Open
+PUR8008,BulkChem,Caustic Soda,219.26,198.05,2025-03-27,Richards Bay Mill,Open
+PUR8009,ForestRaw,Caustic Soda,245.24,67.18,2025-07-09,Durban Mill,Delayed
+PUR8010,BulkChem,Caustic Soda,260.27,131.43,2025-06-28,Pietermaritzburg Mill,Delayed
+PUR8011,ForestRaw,Starch,303.18,140.2,2025-03-03,Pietermaritzburg Mill,Closed
+PUR8012,IndusChem,Starch,188.92,83.27,2025-04-30,Pietermaritzburg Mill,Delayed
+PUR8013,IndusChem,Sulfuric Acid,183.28,94.48,2025-03-08,Richards Bay Mill,Delayed
+PUR8014,BulkChem,Starch,153.56,137.66,2025-01-26,Pietermaritzburg Mill,Closed
+PUR8015,IndusChem,Caustic Soda,333.59,131.84,2025-04-05,Richards Bay Mill,Closed
+PUR8016,ChemSupply,Clay,104.33,133.34,2025-02-26,Pietermaritzburg Mill,Open
+PUR8017,ChemSupply,Sulfuric Acid,295.73,101.71,2025-05-22,Pietermaritzburg Mill,Delayed
+PUR8018,BulkChem,Sulfuric Acid,189.28,120.44,2025-02-09,Durban Mill,Closed
+PUR8019,ForestRaw,Starch,137.21,139.45,2025-05-26,Durban Mill,Closed
+PUR8020,TimberSource,Bleach,190.32,132.59,2025-06-25,Richards Bay Mill,Closed
+PUR8021,BulkChem,Bleach,129.0,106.88,2025-06-14,Pietermaritzburg Mill,Closed
+PUR8022,BulkChem,Caustic Soda,257.79,108.82,2025-07-07,Richards Bay Mill,Open
+PUR8023,ForestRaw,Bleach,338.16,108.01,2025-05-20,Richards Bay Mill,Open
+PUR8024,TimberSource,Bleach,217.97,147.98,2025-01-16,Pietermaritzburg Mill,Open
+PUR8025,ChemSupply,Process Water,86.53,67.18,2025-06-21,Durban Mill,Open
+PUR8026,BulkChem,Caustic Soda,77.95,157.88,2025-06-11,Durban Mill,Open
+PUR8027,ForestRaw,Wood Chips,155.85,196.75,2025-02-25,Pietermaritzburg Mill,Closed
+PUR8028,IndusChem,Wood Chips,154.86,125.54,2025-06-08,Pietermaritzburg Mill,Delayed
+PUR8029,TimberSource,Starch,323.37,180.18,2025-06-18,Richards Bay Mill,Open
+PUR8030,ChemSupply,Clay,364.92,156.25,2025-05-22,Richards Bay Mill,Open
+PUR8031,ChemSupply,Clay,281.93,137.78,2025-07-04,Richards Bay Mill,Delayed
+PUR8032,IndusChem,Wood Chips,262.27,103.46,2025-05-09,Pietermaritzburg Mill,Delayed
+PUR8033,BulkChem,Process Water,134.54,119.9,2025-02-15,Durban Mill,Open
+PUR8034,TimberSource,Caustic Soda,186.39,106.4,2025-03-03,Durban Mill,Delayed
+PUR8035,TimberSource,Sulfuric Acid,255.71,148.66,2025-04-01,Richards Bay Mill,Closed
+PUR8036,ChemSupply,Sulfuric Acid,207.07,164.33,2025-04-14,Richards Bay Mill,Delayed
+PUR8037,ForestRaw,Bleach,108.66,114.19,2025-02-27,Richards Bay Mill,Delayed
+PUR8038,ChemSupply,Bleach,142.65,64.0,2025-06-16,Durban Mill,Open
+PUR8039,BulkChem,Starch,193.39,116.35,2025-04-07,Pietermaritzburg Mill,Closed
+PUR8040,ChemSupply,Bleach,321.08,138.92,2025-01-03,Pietermaritzburg Mill,Open
+PUR8041,ChemSupply,Starch,118.07,175.62,2025-04-22,Pietermaritzburg Mill,Closed
+PUR8042,TimberSource,Process Water,297.68,137.46,2025-01-25,Pietermaritzburg Mill,Open
+PUR8043,ForestRaw,Caustic Soda,181.88,91.22,2025-06-27,Pietermaritzburg Mill,Closed
+PUR8044,IndusChem,Wood Chips,170.22,152.66,2025-01-20,Pietermaritzburg Mill,Closed
+PUR8045,TimberSource,Clay,350.77,166.3,2025-06-18,Durban Mill,Open
+PUR8046,IndusChem,Wood Chips,160.89,86.41,2025-02-23,Pietermaritzburg Mill,Open
+PUR8047,BulkChem,Wood Chips,211.27,66.95,2025-03-18,Durban Mill,Delayed
+PUR8048,ForestRaw,Clay,225.85,115.57,2025-04-10,Pietermaritzburg Mill,Delayed
+PUR8049,IndusChem,Starch,162.72,72.16,2025-07-13,Pietermaritzburg Mill,Open
+PUR8050,ChemSupply,Clay,241.09,104.02,2025-07-10,Richards Bay Mill,Open
+PUR8051,ChemSupply,Starch,106.41,33.83,2025-03-01,Durban Mill,Closed
+PUR8052,TimberSource,Process Water,197.8,173.17,2025-06-07,Pietermaritzburg Mill,Closed
+PUR8053,IndusChem,Wood Chips,332.9,106.29,2025-06-12,Richards Bay Mill,Closed
+PUR8054,BulkChem,Caustic Soda,151.82,134.06,2025-04-02,Pietermaritzburg Mill,Closed
+PUR8055,BulkChem,Caustic Soda,120.13,129.05,2025-06-24,Pietermaritzburg Mill,Delayed
+PUR8056,BulkChem,Wood Chips,261.29,156.81,2025-07-17,Pietermaritzburg Mill,Closed
+PUR8057,ForestRaw,Bleach,191.99,113.89,2025-01-19,Durban Mill,Closed
+PUR8058,ForestRaw,Starch,129.76,95.19,2025-07-02,Pietermaritzburg Mill,Open
+PUR8059,BulkChem,Sulfuric Acid,181.88,131.02,2025-04-03,Durban Mill,Open
+PUR8060,ChemSupply,Sulfuric Acid,273.09,95.9,2025-04-24,Richards Bay Mill,Closed
+PUR8061,ChemSupply,Caustic Soda,319.42,111.87,2025-01-23,Durban Mill,Closed
+PUR8062,BulkChem,Clay,198.29,97.58,2025-05-23,Pietermaritzburg Mill,Closed
+PUR8063,ChemSupply,Wood Chips,6.06,146.52,2025-01-23,Richards Bay Mill,Delayed
+PUR8064,ChemSupply,Clay,258.95,111.56,2025-06-03,Richards Bay Mill,Closed
+PUR8065,ChemSupply,Sulfuric Acid,205.36,135.48,2025-04-16,Richards Bay Mill,Open
+PUR8066,TimberSource,Caustic Soda,75.0,104.13,2025-05-27,Pietermaritzburg Mill,Open
+PUR8067,BulkChem,Caustic Soda,263.54,82.37,2025-02-05,Richards Bay Mill,Closed
+PUR8068,IndusChem,Starch,223.48,79.3,2025-02-07,Durban Mill,Open
+PUR8069,BulkChem,Sulfuric Acid,237.31,118.93,2025-04-18,Richards Bay Mill,Closed
+PUR8070,ChemSupply,Sulfuric Acid,70.79,154.94,2025-03-06,Durban Mill,Delayed
+PUR8071,BulkChem,Clay,141.23,95.69,2025-06-07,Durban Mill,Closed
+PUR8072,ChemSupply,Caustic Soda,216.05,154.46,2025-03-19,Durban Mill,Closed
+PUR8073,IndusChem,Process Water,118.73,121.85,2025-06-08,Richards Bay Mill,Closed
+PUR8074,BulkChem,Sulfuric Acid,234.31,140.79,2025-04-21,Pietermaritzburg Mill,Delayed
+PUR8075,ForestRaw,Sulfuric Acid,214.12,108.99,2025-03-24,Pietermaritzburg Mill,Delayed
+PUR8076,ForestRaw,Starch,133.79,122.58,2025-03-22,Durban Mill,Closed
+PUR8077,IndusChem,Sulfuric Acid,114.23,32.36,2025-07-08,Pietermaritzburg Mill,Delayed
+PUR8078,BulkChem,Clay,234.92,147.12,2025-07-20,Durban Mill,Closed
+PUR8079,BulkChem,Sulfuric Acid,10.97,89.71,2025-04-11,Richards Bay Mill,Open
+PUR8080,TimberSource,Caustic Soda,249.53,181.72,2025-06-01,Pietermaritzburg Mill,Open
+PUR8081,TimberSource,Wood Chips,201.66,98.16,2025-07-06,Richards Bay Mill,Delayed
+PUR8082,ForestRaw,Starch,185.37,161.25,2025-03-16,Pietermaritzburg Mill,Open
+PUR8083,BulkChem,Bleach,148.32,96.02,2025-05-08,Durban Mill,Delayed
+PUR8084,IndusChem,Caustic Soda,161.38,91.4,2025-03-06,Pietermaritzburg Mill,Open
+PUR8085,BulkChem,Process Water,209.81,168.74,2025-04-07,Durban Mill,Closed
+PUR8086,TimberSource,Starch,225.85,112.43,2025-05-30,Richards Bay Mill,Delayed
+PUR8087,TimberSource,Process Water,176.66,73.1,2025-06-27,Richards Bay Mill,Delayed
+PUR8088,ChemSupply,Process Water,270.65,117.66,2025-04-03,Pietermaritzburg Mill,Delayed
+PUR8089,TimberSource,Bleach,185.56,215.79,2025-01-22,Durban Mill,Open
+PUR8090,IndusChem,Caustic Soda,223.9,97.45,2025-06-15,Pietermaritzburg Mill,Open
+PUR8091,TimberSource,Bleach,165.89,154.45,2025-06-23,Pietermaritzburg Mill,Closed
+PUR8092,IndusChem,Process Water,209.06,76.85,2025-04-21,Durban Mill,Open
+PUR8093,ChemSupply,Sulfuric Acid,273.54,99.96,2025-02-26,Pietermaritzburg Mill,Delayed
+PUR8094,TimberSource,Clay,349.86,152.4,2025-05-29,Pietermaritzburg Mill,Delayed
+PUR8095,ForestRaw,Starch,164.21,158.43,2025-04-06,Richards Bay Mill,Closed
+PUR8096,TimberSource,Bleach,205.43,145.58,2025-05-09,Durban Mill,Closed
+PUR8097,ChemSupply,Starch,238.78,94.61,2025-01-27,Richards Bay Mill,Closed
+PUR8098,ChemSupply,Wood Chips,148.52,150.9,2025-07-06,Durban Mill,Closed
+PUR8099,IndusChem,Sulfuric Acid,173.22,107.89,2025-04-27,Durban Mill,Delayed
+PUR8100,BulkChem,Sulfuric Acid,123.59,132.71,2025-05-02,Durban Mill,Closed
+PUR8101,BulkChem,Sulfuric Acid,365.0,87.97,2025-01-18,Richards Bay Mill,Open
+PUR8102,ChemSupply,Wood Chips,201.94,162.37,2025-03-29,Pietermaritzburg Mill,Open
+PUR8103,ForestRaw,Bleach,193.63,133.57,2025-03-04,Pietermaritzburg Mill,Open
+PUR8104,TimberSource,Caustic Soda,115.01,132.85,2025-03-26,Pietermaritzburg Mill,Closed
+PUR8105,BulkChem,Caustic Soda,185.03,149.57,2025-04-14,Pietermaritzburg Mill,Open
+PUR8106,ForestRaw,Bleach,294.99,197.69,2025-06-18,Richards Bay Mill,Closed
+PUR8107,ChemSupply,Bleach,246.37,129.77,2025-06-07,Durban Mill,Closed
+PUR8108,TimberSource,Starch,215.55,109.41,2025-04-10,Durban Mill,Delayed
+PUR8109,ForestRaw,Caustic Soda,227.08,111.14,2025-03-13,Pietermaritzburg Mill,Open
+PUR8110,TimberSource,Wood Chips,213.48,159.53,2025-05-18,Durban Mill,Closed
+PUR8111,IndusChem,Caustic Soda,119.48,154.2,2025-04-28,Durban Mill,Closed
+PUR8112,BulkChem,Clay,305.37,116.46,2025-06-13,Richards Bay Mill,Delayed
+PUR8113,BulkChem,Clay,30.25,101.77,2025-04-11,Pietermaritzburg Mill,Open
+PUR8114,IndusChem,Sulfuric Acid,303.76,119.31,2025-04-28,Pietermaritzburg Mill,Open
+PUR8115,IndusChem,Clay,120.06,104.86,2025-06-01,Durban Mill,Delayed
+PUR8116,ForestRaw,Sulfuric Acid,267.25,136.4,2025-01-31,Durban Mill,Closed
+PUR8117,ChemSupply,Caustic Soda,180.89,109.0,2025-04-06,Pietermaritzburg Mill,Open
+PUR8118,TimberSource,Starch,168.66,92.33,2025-04-18,Pietermaritzburg Mill,Open
+PUR8119,TimberSource,Starch,329.23,110.33,2025-04-19,Durban Mill,Closed
+PUR8120,TimberSource,Bleach,297.37,165.64,2025-06-15,Durban Mill,Delayed
+PUR8121,ForestRaw,Starch,279.86,107.05,2025-03-15,Durban Mill,Open
+PUR8122,IndusChem,Process Water,232.3,119.27,2025-04-26,Pietermaritzburg Mill,Open
+PUR8123,IndusChem,Wood Chips,127.7,129.73,2025-05-05,Durban Mill,Open
+PUR8124,BulkChem,Clay,105.68,155.63,2025-05-10,Pietermaritzburg Mill,Closed
+PUR8125,BulkChem,Bleach,162.83,126.03,2025-05-06,Richards Bay Mill,Delayed
+PUR8126,BulkChem,Starch,222.66,112.23,2025-02-12,Durban Mill,Delayed
+PUR8127,ChemSupply,Process Water,246.94,105.75,2025-07-14,Durban Mill,Closed
+PUR8128,ChemSupply,Sulfuric Acid,269.7,79.62,2025-02-27,Pietermaritzburg Mill,Closed
+PUR8129,ForestRaw,Process Water,210.11,178.17,2025-04-28,Pietermaritzburg Mill,Delayed
+PUR8130,BulkChem,Clay,119.97,99.67,2025-05-11,Durban Mill,Delayed
+PUR8131,ChemSupply,Sulfuric Acid,241.11,125.39,2025-07-18,Pietermaritzburg Mill,Closed
+PUR8132,TimberSource,Process Water,228.05,134.68,2025-07-13,Durban Mill,Delayed
+PUR8133,BulkChem,Clay,250.78,153.29,2025-02-25,Richards Bay Mill,Open
+PUR8134,ForestRaw,Sulfuric Acid,232.79,112.76,2025-01-09,Richards Bay Mill,Closed
+PUR8135,IndusChem,Process Water,253.81,177.0,2025-01-23,Richards Bay Mill,Open
+PUR8136,ForestRaw,Caustic Soda,189.39,90.76,2025-07-08,Pietermaritzburg Mill,Delayed
+PUR8137,IndusChem,Process Water,288.57,116.39,2025-07-01,Pietermaritzburg Mill,Delayed
+PUR8138,BulkChem,Caustic Soda,26.19,145.42,2025-06-07,Durban Mill,Open
+PUR8139,ForestRaw,Process Water,157.17,117.28,2025-01-16,Pietermaritzburg Mill,Closed
+PUR8140,TimberSource,Sulfuric Acid,226.56,125.71,2025-06-02,Pietermaritzburg Mill,Open
+PUR8141,IndusChem,Bleach,256.76,106.94,2025-03-16,Richards Bay Mill,Delayed
+PUR8142,IndusChem,Process Water,241.05,112.21,2025-05-12,Pietermaritzburg Mill,Open
+PUR8143,ForestRaw,Process Water,259.1,138.46,2025-04-16,Durban Mill,Closed
+PUR8144,ForestRaw,Bleach,125.16,152.58,2025-02-03,Durban Mill,Open
+PUR8145,IndusChem,Process Water,157.12,144.24,2025-03-05,Pietermaritzburg Mill,Closed
+PUR8146,BulkChem,Caustic Soda,229.38,175.15,2025-05-28,Pietermaritzburg Mill,Closed
+PUR8147,BulkChem,Starch,182.12,109.52,2025-04-26,Durban Mill,Delayed
+PUR8148,ChemSupply,Starch,198.45,110.9,2025-05-12,Pietermaritzburg Mill,Closed
+PUR8149,IndusChem,Starch,264.0,71.51,2025-05-05,Richards Bay Mill,Delayed
+PUR8150,ChemSupply,Process Water,115.71,87.97,2025-07-18,Pietermaritzburg Mill,Open
+PUR8151,BulkChem,Bleach,276.02,171.32,2025-06-20,Pietermaritzburg Mill,Closed
+PUR8152,ChemSupply,Process Water,191.64,114.94,2025-05-17,Richards Bay Mill,Open
+PUR8153,BulkChem,Process Water,205.6,154.86,2025-02-24,Richards Bay Mill,Closed
+PUR8154,IndusChem,Process Water,125.81,127.15,2025-03-14,Richards Bay Mill,Delayed
+PUR8155,TimberSource,Caustic Soda,278.02,135.03,2025-05-25,Richards Bay Mill,Closed
+PUR8156,ChemSupply,Wood Chips,215.17,150.03,2025-01-26,Pietermaritzburg Mill,Closed
+PUR8157,ChemSupply,Wood Chips,16.26,140.34,2025-02-10,Richards Bay Mill,Closed
+PUR8158,ChemSupply,Starch,147.67,65.08,2025-02-21,Pietermaritzburg Mill,Open
+PUR8159,IndusChem,Caustic Soda,240.9,161.21,2025-03-12,Durban Mill,Delayed
+PUR8160,IndusChem,Sulfuric Acid,189.0,148.59,2025-01-22,Richards Bay Mill,Delayed
+PUR8161,ForestRaw,Wood Chips,328.98,159.45,2025-04-12,Pietermaritzburg Mill,Closed
+PUR8162,ForestRaw,Starch,331.2,142.26,2025-06-17,Durban Mill,Delayed
+PUR8163,ChemSupply,Wood Chips,206.03,71.94,2025-02-24,Richards Bay Mill,Open
+PUR8164,ForestRaw,Clay,180.32,94.7,2025-02-27,Pietermaritzburg Mill,Delayed
+PUR8165,BulkChem,Wood Chips,373.68,114.72,2025-01-03,Pietermaritzburg Mill,Closed
+PUR8166,ChemSupply,Process Water,209.86,136.54,2025-04-19,Pietermaritzburg Mill,Open
+PUR8167,BulkChem,Wood Chips,203.49,170.85,2025-02-28,Richards Bay Mill,Open
+PUR8168,ChemSupply,Wood Chips,150.19,125.84,2025-03-22,Richards Bay Mill,Closed
+PUR8169,ForestRaw,Starch,140.6,80.4,2025-07-18,Durban Mill,Delayed
+PUR8170,ForestRaw,Wood Chips,151.06,118.89,2025-05-16,Pietermaritzburg Mill,Open
+PUR8171,TimberSource,Bleach,165.66,99.23,2025-02-12,Richards Bay Mill,Closed
+PUR8172,ForestRaw,Bleach,87.49,117.51,2025-07-11,Durban Mill,Closed
+PUR8173,TimberSource,Bleach,79.62,142.8,2025-04-24,Durban Mill,Open
+PUR8174,ChemSupply,Caustic Soda,206.6,76.27,2025-07-12,Durban Mill,Delayed
+PUR8175,BulkChem,Sulfuric Acid,175.26,97.44,2025-04-20,Richards Bay Mill,Open
+PUR8176,ForestRaw,Sulfuric Acid,225.53,160.21,2025-06-15,Durban Mill,Open
+PUR8177,TimberSource,Clay,49.99,123.45,2025-06-03,Pietermaritzburg Mill,Delayed
+PUR8178,IndusChem,Process Water,187.19,140.14,2025-06-26,Durban Mill,Delayed
+PUR8179,IndusChem,Caustic Soda,217.06,97.44,2025-05-13,Pietermaritzburg Mill,Delayed

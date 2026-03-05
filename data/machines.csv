@@ -1,0 +1,9 @@
+machine_id,plant,machine_type,commission_year
+PM1,Pietermaritzburg Mill,Paper Machine,2018
+PM2,Durban Mill,Paper Machine,1998
+PM3,Durban Mill,Paper Machine,2016
+Digester A,Pietermaritzburg Mill,Digester,2018
+Digester B,Richards Bay Mill,Digester,2012
+Recovery Boiler,Durban Mill,Boiler,1997
+Refiner 1,Durban Mill,Refiner,2013
+Refiner 2,Durban Mill,Refiner,2008

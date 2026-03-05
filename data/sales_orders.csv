@@ -1,0 +1,251 @@
+sales_order_id,customer,product,order_qty_tons,price_per_ton,order_date,delivery_plant,sales_rep
+SO5000,EcoCartons,Unbleached Pulp,59.36,735.0,2025-06-21,Durban Mill,SR04
+SO5001,GreenWrap,Corrugating Medium,97.31,582.31,2025-07-04,Durban Mill,SR03
+SO5002,EcoCartons,Unbleached Pulp,51.59,754.69,2025-04-01,Durban Mill,SR02
+SO5003,Boxify,Corrugating Medium,109.51,638.1,2025-02-27,Durban Mill,SR03
+SO5004,EcoCartons,Unbleached Pulp,145.4,521.59,2025-01-30,Richards Bay Mill,SR02
+SO5005,MegaPackaging,Specialty Paper,44.23,566.97,2025-07-16,Pietermaritzburg Mill,SR01
+SO5006,EcoCartons,Unbleached Pulp,88.63,679.2,2025-01-08,Durban Mill,SR03
+SO5007,PaperTrade Ltd,Unbleached Pulp,82.76,692.25,2025-03-28,Richards Bay Mill,SR01
+SO5008,Boxify,Bleached Pulp,52.45,823.25,2025-05-25,Pietermaritzburg Mill,SR04
+SO5009,PackCo,Bleached Pulp,87.54,784.08,2025-07-09,Pietermaritzburg Mill,SR01
+SO5010,PackCo,Specialty Paper,100.28,704.81,2025-02-25,Richards Bay Mill,SR04
+SO5011,MegaPackaging,Unbleached Pulp,107.09,703.73,2025-02-10,Richards Bay Mill,SR03
+SO5012,PaperTrade Ltd,Unbleached Pulp,109.28,809.5,2025-07-18,Pietermaritzburg Mill,SR01
+SO5013,PackCo,Bleached Pulp,95.9,735.08,2025-02-10,Pietermaritzburg Mill,SR01
+SO5014,PaperTrade Ltd,Kraft Linerboard,87.31,822.81,2025-03-11,Richards Bay Mill,SR04
+SO5015,MegaPackaging,Specialty Paper,69.71,866.11,2025-04-24,Richards Bay Mill,SR03
+SO5016,Boxify,Specialty Paper,88.8,478.31,2025-01-30,Richards Bay Mill,SR04
+SO5017,PackCo,Unbleached Pulp,93.84,568.27,2025-06-23,Pietermaritzburg Mill,SR04
+SO5018,EcoCartons,Unbleached Pulp,115.22,571.69,2025-01-12,Durban Mill,SR04
+SO5019,EcoCartons,Kraft Linerboard,76.61,423.26,2025-01-02,Durban Mill,SR03
+SO5020,Boxify,Bleached Pulp,76.43,359.13,2025-07-15,Richards Bay Mill,SR03
+SO5021,GreenWrap,Kraft Linerboard,42.48,741.25,2025-01-02,Richards Bay Mill,SR04
+SO5022,Boxify,Bleached Pulp,113.57,701.05,2025-04-08,Pietermaritzburg Mill,SR02
+SO5023,EcoCartons,Specialty Paper,60.99,644.27,2025-06-21,Richards Bay Mill,SR01
+SO5024,MegaPackaging,Kraft Linerboard,89.89,511.0,2025-04-22,Durban Mill,SR04
+SO5025,PackCo,Unbleached Pulp,135.1,755.28,2025-05-28,Richards Bay Mill,SR04
+SO5026,PaperTrade Ltd,Corrugating Medium,83.37,653.23,2025-03-16,Durban Mill,SR04
+SO5027,PackCo,Unbleached Pulp,96.25,404.99,2025-02-13,Pietermaritzburg Mill,SR04
+SO5028,PaperTrade Ltd,Unbleached Pulp,82.58,568.16,2025-01-23,Richards Bay Mill,SR01
+SO5029,Boxify,Corrugating Medium,59.95,616.27,2025-05-31,Richards Bay Mill,SR01
+SO5030,MegaPackaging,Unbleached Pulp,143.93,726.9,2025-07-10,Richards Bay Mill,SR02
+SO5031,GreenWrap,Bleached Pulp,72.86,718.71,2025-01-20,Pietermaritzburg Mill,SR01
+SO5032,EcoCartons,Specialty Paper,131.98,760.96,2025-02-19,Richards Bay Mill,SR03
+SO5033,PaperTrade Ltd,Bleached Pulp,91.79,572.37,2025-03-02,Durban Mill,SR02
+SO5034,GreenWrap,Bleached Pulp,110.95,697.22,2025-02-14,Pietermaritzburg Mill,SR02
+SO5035,PaperTrade Ltd,Kraft Linerboard,116.86,726.22,2025-02-15,Pietermaritzburg Mill,SR04
+SO5036,MegaPackaging,Specialty Paper,121.49,585.77,2025-07-14,Pietermaritzburg Mill,SR04
+SO5037,PaperTrade Ltd,Specialty Paper,129.52,673.71,2025-06-14,Pietermaritzburg Mill,SR03
+SO5038,PaperTrade Ltd,Unbleached Pulp,152.26,567.3,2025-02-08,Richards Bay Mill,SR01
+SO5039,MegaPackaging,Corrugating Medium,142.08,673.75,2025-06-11,Richards Bay Mill,SR03
+SO5040,EcoCartons,Kraft Linerboard,70.46,591.93,2025-04-01,Pietermaritzburg Mill,SR01
+SO5041,GreenWrap,Corrugating Medium,80.39,700.9,2025-04-26,Durban Mill,SR01
+SO5042,GreenWrap,Unbleached Pulp,105.69,581.16,2025-01-20,Pietermaritzburg Mill,SR01
+SO5043,EcoCartons,Specialty Paper,89.27,907.07,2025-05-10,Richards Bay Mill,SR04
+SO5044,EcoCartons,Specialty Paper,141.83,702.36,2025-07-09,Durban Mill,SR04
+SO5045,EcoCartons,Bleached Pulp,91.14,664.4,2025-03-24,Pietermaritzburg Mill,SR04
+SO5046,EcoCartons,Bleached Pulp,108.41,527.26,2025-01-16,Richards Bay Mill,SR01
+SO5047,GreenWrap,Kraft Linerboard,82.28,449.77,2025-05-10,Pietermaritzburg Mill,SR02
+SO5048,PackCo,Bleached Pulp,101.98,727.66,2025-07-01,Richards Bay Mill,SR04
+SO5049,EcoCartons,Specialty Paper,75.5,838.88,2025-06-06,Durban Mill,SR03
+SO5050,GreenWrap,Unbleached Pulp,53.23,474.28,2025-04-10,Richards Bay Mill,SR03
+SO5051,PaperTrade Ltd,Specialty Paper,96.73,775.65,2025-01-14,Pietermaritzburg Mill,SR03
+SO5052,PackCo,Unbleached Pulp,140.52,594.93,2025-01-25,Pietermaritzburg Mill,SR04
+SO5053,GreenWrap,Unbleached Pulp,122.36,645.38,2025-07-05,Pietermaritzburg Mill,SR02
+SO5054,GreenWrap,Kraft Linerboard,84.82,756.04,2025-05-30,Pietermaritzburg Mill,SR02
+SO5055,GreenWrap,Unbleached Pulp,109.57,460.83,2025-06-17,Pietermaritzburg Mill,SR04
+SO5056,Boxify,Specialty Paper,134.3,815.61,2025-07-01,Durban Mill,SR03
+SO5057,EcoCartons,Corrugating Medium,71.23,697.5,2025-06-14,Richards Bay Mill,SR02
+SO5058,PaperTrade Ltd,Specialty Paper,104.82,681.28,2025-01-24,Pietermaritzburg Mill,SR04
+SO5059,EcoCartons,Unbleached Pulp,73.49,569.41,2025-01-05,Richards Bay Mill,SR03
+SO5060,Boxify,Bleached Pulp,89.23,790.73,2025-03-29,Richards Bay Mill,SR02
+SO5061,Boxify,Bleached Pulp,106.31,605.53,2025-02-09,Durban Mill,SR03
+SO5062,PackCo,Specialty Paper,113.15,308.17,2025-07-17,Pietermaritzburg Mill,SR01
+SO5063,PaperTrade Ltd,Unbleached Pulp,124.46,441.23,2025-07-16,Pietermaritzburg Mill,SR02
+SO5064,EcoCartons,Corrugating Medium,79.13,515.64,2025-02-09,Durban Mill,SR02
+SO5065,PaperTrade Ltd,Specialty Paper,51.16,789.3,2025-02-12,Pietermaritzburg Mill,SR04
+SO5066,PackCo,Corrugating Medium,75.97,691.58,2025-04-04,Pietermaritzburg Mill,SR02
+SO5067,MegaPackaging,Specialty Paper,88.59,707.24,2025-03-14,Pietermaritzburg Mill,SR04
+SO5068,Boxify,Specialty Paper,92.3,496.04,2025-03-03,Richards Bay Mill,SR04
+SO5069,Boxify,Unbleached Pulp,119.89,590.75,2025-06-23,Pietermaritzburg Mill,SR04
+SO5070,MegaPackaging,Unbleached Pulp,43.3,598.63,2025-07-19,Richards Bay Mill,SR04
+SO5071,Boxify,Bleached Pulp,135.02,752.03,2025-06-04,Durban Mill,SR03
+SO5072,PackCo,Corrugating Medium,79.54,608.09,2025-04-06,Pietermaritzburg Mill,SR01
+SO5073,PaperTrade Ltd,Specialty Paper,80.35,899.21,2025-02-01,Richards Bay Mill,SR01
+SO5074,Boxify,Unbleached Pulp,101.46,701.6,2025-04-26,Pietermaritzburg Mill,SR02
+SO5075,MegaPackaging,Kraft Linerboard,120.91,678.65,2025-02-26,Richards Bay Mill,SR03
+SO5076,PackCo,Corrugating Medium,82.23,626.44,2025-01-14,Richards Bay Mill,SR03
+SO5077,Boxify,Corrugating Medium,87.85,645.53,2025-01-21,Richards Bay Mill,SR02
+SO5078,PackCo,Unbleached Pulp,111.83,656.23,2025-01-26,Pietermaritzburg Mill,SR03
+SO5079,Boxify,Bleached Pulp,111.98,640.31,2025-01-10,Richards Bay Mill,SR04
+SO5080,PaperTrade Ltd,Bleached Pulp,92.36,410.22,2025-07-14,Pietermaritzburg Mill,SR04
+SO5081,MegaPackaging,Specialty Paper,117.49,691.58,2025-01-02,Durban Mill,SR01
+SO5082,GreenWrap,Bleached Pulp,119.94,302.45,2025-02-08,Pietermaritzburg Mill,SR04
+SO5083,PackCo,Unbleached Pulp,152.65,633.25,2025-03-02,Richards Bay Mill,SR01
+SO5084,PackCo,Bleached Pulp,123.25,525.21,2025-04-18,Pietermaritzburg Mill,SR04
+SO5085,PackCo,Kraft Linerboard,108.38,523.59,2025-05-08,Pietermaritzburg Mill,SR01
+SO5086,PaperTrade Ltd,Specialty Paper,71.29,879.68,2025-05-28,Durban Mill,SR02
+SO5087,GreenWrap,Corrugating Medium,84.28,676.09,2025-01-01,Pietermaritzburg Mill,SR03
+SO5088,Boxify,Specialty Paper,116.1,709.48,2025-04-17,Durban Mill,SR01
+SO5089,EcoCartons,Unbleached Pulp,94.51,693.8,2025-01-18,Pietermaritzburg Mill,SR01
+SO5090,MegaPackaging,Corrugating Medium,162.1,643.09,2025-01-12,Pietermaritzburg Mill,SR04
+SO5091,GreenWrap,Unbleached Pulp,96.03,776.08,2025-07-11,Durban Mill,SR03
+SO5092,PackCo,Unbleached Pulp,123.17,792.44,2025-03-03,Pietermaritzburg Mill,SR01
+SO5093,EcoCartons,Unbleached Pulp,109.16,512.84,2025-02-04,Durban Mill,SR03
+SO5094,EcoCartons,Unbleached Pulp,139.0,512.44,2025-06-14,Durban Mill,SR04
+SO5095,PaperTrade Ltd,Corrugating Medium,99.08,559.49,2025-06-11,Durban Mill,SR02
+SO5096,PackCo,Corrugating Medium,88.08,689.45,2025-01-10,Richards Bay Mill,SR02
+SO5097,PackCo,Bleached Pulp,99.64,700.63,2025-01-11,Richards Bay Mill,SR03
+SO5098,EcoCartons,Corrugating Medium,138.41,704.42,2025-05-20,Richards Bay Mill,SR03
+SO5099,PackCo,Bleached Pulp,82.68,765.69,2025-03-15,Richards Bay Mill,SR01
+SO5100,PaperTrade Ltd,Unbleached Pulp,125.68,502.69,2025-03-11,Durban Mill,SR03
+SO5101,MegaPackaging,Corrugating Medium,107.92,734.14,2025-07-10,Richards Bay Mill,SR04
+SO5102,GreenWrap,Bleached Pulp,81.07,815.08,2025-05-08,Pietermaritzburg Mill,SR04
+SO5103,GreenWrap,Specialty Paper,85.5,665.07,2025-03-10,Durban Mill,SR04
+SO5104,PackCo,Corrugating Medium,84.81,651.87,2025-06-04,Durban Mill,SR03
+SO5105,GreenWrap,Kraft Linerboard,57.11,477.19,2025-01-21,Richards Bay Mill,SR03
+SO5106,GreenWrap,Corrugating Medium,137.84,548.36,2025-06-04,Pietermaritzburg Mill,SR04
+SO5107,Boxify,Corrugating Medium,60.26,391.59,2025-03-31,Richards Bay Mill,SR01
+SO5108,PaperTrade Ltd,Unbleached Pulp,70.83,491.23,2025-06-07,Richards Bay Mill,SR03
+SO5109,PaperTrade Ltd,Kraft Linerboard,139.26,771.18,2025-01-20,Pietermaritzburg Mill,SR04
+SO5110,GreenWrap,Specialty Paper,69.36,920.29,2025-07-11,Pietermaritzburg Mill,SR02
+SO5111,PackCo,Bleached Pulp,119.45,611.02,2025-06-05,Pietermaritzburg Mill,SR04
+SO5112,PackCo,Bleached Pulp,15.02,924.91,2025-01-18,Durban Mill,SR03
+SO5113,GreenWrap,Corrugating Medium,48.31,452.55,2025-05-26,Durban Mill,SR02
+SO5114,PaperTrade Ltd,Corrugating Medium,120.68,942.77,2025-04-05,Richards Bay Mill,SR04
+SO5115,PackCo,Specialty Paper,131.53,717.67,2025-02-05,Pietermaritzburg Mill,SR03
+SO5116,MegaPackaging,Unbleached Pulp,107.84,752.41,2025-06-16,Richards Bay Mill,SR02
+SO5117,PackCo,Kraft Linerboard,112.77,683.74,2025-07-08,Durban Mill,SR04
+SO5118,EcoCartons,Corrugating Medium,93.13,642.49,2025-05-24,Durban Mill,SR03
+SO5119,GreenWrap,Corrugating Medium,67.38,616.32,2025-02-24,Pietermaritzburg Mill,SR03
+SO5120,PaperTrade Ltd,Corrugating Medium,39.21,638.2,2025-02-21,Durban Mill,SR02
+SO5121,PackCo,Corrugating Medium,60.34,517.57,2025-02-14,Pietermaritzburg Mill,SR04
+SO5122,PackCo,Unbleached Pulp,95.4,817.04,2025-06-20,Richards Bay Mill,SR01
+SO5123,EcoCartons,Specialty Paper,117.55,461.54,2025-03-16,Richards Bay Mill,SR02
+SO5124,PaperTrade Ltd,Bleached Pulp,60.31,762.89,2025-04-03,Pietermaritzburg Mill,SR02
+SO5125,PackCo,Bleached Pulp,60.53,623.04,2025-02-05,Durban Mill,SR04
+SO5126,PackCo,Unbleached Pulp,106.5,533.8,2025-05-22,Pietermaritzburg Mill,SR03
+SO5127,MegaPackaging,Specialty Paper,93.16,489.92,2025-02-03,Pietermaritzburg Mill,SR01
+SO5128,PackCo,Unbleached Pulp,71.96,688.37,2025-04-12,Pietermaritzburg Mill,SR04
+SO5129,EcoCartons,Corrugating Medium,42.21,702.86,2025-07-16,Richards Bay Mill,SR01
+SO5130,Boxify,Unbleached Pulp,89.41,716.3,2025-06-14,Durban Mill,SR04
+SO5131,MegaPackaging,Specialty Paper,96.72,813.7,2025-03-30,Durban Mill,SR02
+SO5132,Boxify,Corrugating Medium,93.76,598.47,2025-05-09,Durban Mill,SR01
+SO5133,EcoCartons,Bleached Pulp,93.67,715.2,2025-03-19,Durban Mill,SR02
+SO5134,GreenWrap,Bleached Pulp,91.47,654.87,2025-03-30,Pietermaritzburg Mill,SR03
+SO5135,PackCo,Unbleached Pulp,68.94,570.45,2025-02-20,Pietermaritzburg Mill,SR03
+SO5136,Boxify,Unbleached Pulp,47.92,859.95,2025-06-07,Pietermaritzburg Mill,SR01
+SO5137,EcoCartons,Bleached Pulp,52.68,566.85,2025-06-01,Pietermaritzburg Mill,SR02
+SO5138,Boxify,Specialty Paper,68.45,757.39,2025-07-04,Pietermaritzburg Mill,SR03
+SO5139,EcoCartons,Kraft Linerboard,81.15,799.73,2025-01-08,Durban Mill,SR01
+SO5140,PaperTrade Ltd,Specialty Paper,69.8,683.48,2025-03-09,Pietermaritzburg Mill,SR02
+SO5141,EcoCartons,Corrugating Medium,64.94,907.42,2025-06-08,Pietermaritzburg Mill,SR01
+SO5142,MegaPackaging,Specialty Paper,54.37,687.18,2025-03-16,Pietermaritzburg Mill,SR03
+SO5143,MegaPackaging,Bleached Pulp,109.01,699.66,2025-06-25,Richards Bay Mill,SR03
+SO5144,MegaPackaging,Kraft Linerboard,84.44,634.42,2025-06-26,Durban Mill,SR02
+SO5145,MegaPackaging,Corrugating Medium,91.31,632.36,2025-05-04,Richards Bay Mill,SR02
+SO5146,GreenWrap,Specialty Paper,118.92,915.26,2025-02-06,Richards Bay Mill,SR03
+SO5147,PaperTrade Ltd,Unbleached Pulp,73.28,485.62,2025-04-13,Durban Mill,SR03
+SO5148,EcoCartons,Specialty Paper,87.35,959.57,2025-01-28,Richards Bay Mill,SR02
+SO5149,MegaPackaging,Kraft Linerboard,65.89,846.69,2025-03-10,Richards Bay Mill,SR02
+SO5150,Boxify,Kraft Linerboard,140.33,583.57,2025-01-13,Richards Bay Mill,SR04
+SO5151,EcoCartons,Corrugating Medium,107.07,845.41,2025-03-05,Durban Mill,SR03
+SO5152,EcoCartons,Unbleached Pulp,78.63,625.57,2025-02-18,Durban Mill,SR04
+SO5153,EcoCartons,Corrugating Medium,72.55,528.23,2025-05-08,Richards Bay Mill,SR04
+SO5154,PackCo,Kraft Linerboard,70.52,503.13,2025-04-11,Pietermaritzburg Mill,SR04
+SO5155,Boxify,Bleached Pulp,91.02,557.6,2025-05-30,Richards Bay Mill,SR01
+SO5156,PackCo,Unbleached Pulp,97.01,463.29,2025-05-07,Pietermaritzburg Mill,SR04
+SO5157,GreenWrap,Specialty Paper,99.93,750.02,2025-01-03,Durban Mill,SR04
+SO5158,Boxify,Unbleached Pulp,30.19,694.89,2025-07-06,Richards Bay Mill,SR04
+SO5159,GreenWrap,Kraft Linerboard,126.83,504.84,2025-04-13,Durban Mill,SR02
+SO5160,GreenWrap,Specialty Paper,140.18,700.28,2025-03-15,Durban Mill,SR04
+SO5161,EcoCartons,Corrugating Medium,68.85,643.31,2025-07-15,Pietermaritzburg Mill,SR03
+SO5162,EcoCartons,Specialty Paper,106.75,659.12,2025-01-31,Durban Mill,SR01
+SO5163,MegaPackaging,Unbleached Pulp,106.16,539.52,2025-03-28,Pietermaritzburg Mill,SR03
+SO5164,Boxify,Bleached Pulp,95.08,480.35,2025-06-04,Pietermaritzburg Mill,SR04
+SO5165,EcoCartons,Kraft Linerboard,86.66,541.53,2025-01-12,Durban Mill,SR02
+SO5166,PaperTrade Ltd,Unbleached Pulp,67.93,798.33,2025-05-02,Pietermaritzburg Mill,SR04
+SO5167,Boxify,Specialty Paper,122.74,723.1,2025-05-12,Durban Mill,SR03
+SO5168,EcoCartons,Unbleached Pulp,57.23,612.03,2025-02-11,Richards Bay Mill,SR03
+SO5169,EcoCartons,Unbleached Pulp,126.39,667.01,2025-05-10,Pietermaritzburg Mill,SR04
+SO5170,PaperTrade Ltd,Specialty Paper,159.58,697.2,2025-03-18,Richards Bay Mill,SR01
+SO5171,GreenWrap,Unbleached Pulp,95.76,612.91,2025-06-22,Durban Mill,SR04
+SO5172,EcoCartons,Unbleached Pulp,94.01,631.7,2025-07-05,Pietermaritzburg Mill,SR01
+SO5173,EcoCartons,Corrugating Medium,111.24,764.8,2025-03-09,Pietermaritzburg Mill,SR02
+SO5174,PaperTrade Ltd,Kraft Linerboard,66.42,490.25,2025-05-30,Richards Bay Mill,SR02
+SO5175,EcoCartons,Specialty Paper,34.91,710.96,2025-07-18,Richards Bay Mill,SR02
+SO5176,PaperTrade Ltd,Bleached Pulp,56.9,391.65,2025-01-09,Pietermaritzburg Mill,SR01
+SO5177,Boxify,Kraft Linerboard,101.66,949.16,2025-04-23,Richards Bay Mill,SR04
+SO5178,Boxify,Corrugating Medium,89.82,750.62,2025-06-26,Durban Mill,SR04
+SO5179,EcoCartons,Specialty Paper,92.45,638.13,2025-05-01,Pietermaritzburg Mill,SR01
+SO5180,PaperTrade Ltd,Bleached Pulp,117.57,615.17,2025-05-13,Durban Mill,SR03
+SO5181,PaperTrade Ltd,Corrugating Medium,98.02,688.6,2025-05-15,Richards Bay Mill,SR03
+SO5182,Boxify,Corrugating Medium,69.96,769.05,2025-05-17,Richards Bay Mill,SR03
+SO5183,PaperTrade Ltd,Unbleached Pulp,84.75,559.31,2025-06-06,Richards Bay Mill,SR02
+SO5184,Boxify,Unbleached Pulp,106.1,542.18,2025-05-23,Richards Bay Mill,SR02
+SO5185,GreenWrap,Unbleached Pulp,90.85,648.91,2025-06-30,Durban Mill,SR04
+SO5186,GreenWrap,Corrugating Medium,122.58,706.96,2025-03-31,Pietermaritzburg Mill,SR03
+SO5187,GreenWrap,Kraft Linerboard,89.25,748.13,2025-05-27,Pietermaritzburg Mill,SR04
+SO5188,MegaPackaging,Unbleached Pulp,131.71,716.94,2025-07-17,Durban Mill,SR03
+SO5189,PackCo,Unbleached Pulp,90.31,492.58,2025-07-02,Durban Mill,SR03
+SO5190,MegaPackaging,Unbleached Pulp,58.05,613.37,2025-07-11,Richards Bay Mill,SR02
+SO5191,Boxify,Specialty Paper,71.71,627.56,2025-03-11,Pietermaritzburg Mill,SR03
+SO5192,Boxify,Kraft Linerboard,91.7,713.56,2025-06-07,Pietermaritzburg Mill,SR02
+SO5193,Boxify,Kraft Linerboard,87.89,708.38,2025-06-21,Pietermaritzburg Mill,SR02
+SO5194,PaperTrade Ltd,Bleached Pulp,91.93,412.94,2025-01-14,Durban Mill,SR04
+SO5195,GreenWrap,Corrugating Medium,61.82,632.71,2025-01-26,Pietermaritzburg Mill,SR02
+SO5196,PackCo,Specialty Paper,53.71,721.99,2025-02-10,Richards Bay Mill,SR04
+SO5197,MegaPackaging,Bleached Pulp,135.92,796.25,2025-07-13,Richards Bay Mill,SR03
+SO5198,GreenWrap,Kraft Linerboard,83.6,828.89,2025-07-16,Durban Mill,SR02
+SO5199,EcoCartons,Kraft Linerboard,94.46,609.55,2025-02-14,Richards Bay Mill,SR02
+SO5200,PackCo,Corrugating Medium,71.6,613.7,2025-05-07,Durban Mill,SR03
+SO5201,PackCo,Kraft Linerboard,78.35,670.45,2025-03-18,Pietermaritzburg Mill,SR01
+SO5202,GreenWrap,Unbleached Pulp,94.82,650.37,2025-04-27,Pietermaritzburg Mill,SR04
+SO5203,Boxify,Specialty Paper,103.11,792.88,2025-04-30,Richards Bay Mill,SR02
+SO5204,PackCo,Unbleached Pulp,118.49,471.81,2025-02-11,Pietermaritzburg Mill,SR04
+SO5205,PaperTrade Ltd,Unbleached Pulp,13.38,762.12,2025-07-03,Durban Mill,SR01
+SO5206,PaperTrade Ltd,Unbleached Pulp,48.99,623.03,2025-03-17,Pietermaritzburg Mill,SR02
+SO5207,Boxify,Specialty Paper,54.9,433.76,2025-06-13,Richards Bay Mill,SR04
+SO5208,EcoCartons,Unbleached Pulp,106.24,741.1,2025-01-23,Richards Bay Mill,SR01
+SO5209,Boxify,Bleached Pulp,72.7,339.07,2025-05-03,Richards Bay Mill,SR02
+SO5210,PackCo,Unbleached Pulp,73.61,697.02,2025-04-09,Durban Mill,SR04
+SO5211,GreenWrap,Unbleached Pulp,45.63,672.0,2025-03-19,Pietermaritzburg Mill,SR01
+SO5212,GreenWrap,Unbleached Pulp,89.54,719.51,2025-06-27,Durban Mill,SR01
+SO5213,PaperTrade Ltd,Kraft Linerboard,93.59,533.23,2025-04-30,Richards Bay Mill,SR02
+SO5214,MegaPackaging,Specialty Paper,125.9,630.98,2025-06-30,Richards Bay Mill,SR01
+SO5215,PaperTrade Ltd,Unbleached Pulp,89.18,538.01,2025-04-05,Pietermaritzburg Mill,SR02
+SO5216,Boxify,Bleached Pulp,76.7,543.82,2025-05-03,Durban Mill,SR04
+SO5217,PaperTrade Ltd,Specialty Paper,84.81,855.41,2025-04-06,Richards Bay Mill,SR04
+SO5218,EcoCartons,Bleached Pulp,48.84,456.37,2025-07-15,Durban Mill,SR01
+SO5219,EcoCartons,Corrugating Medium,134.14,624.88,2025-05-16,Pietermaritzburg Mill,SR03
+SO5220,PackCo,Specialty Paper,69.93,774.79,2025-01-29,Durban Mill,SR02
+SO5221,EcoCartons,Specialty Paper,71.83,869.12,2025-02-08,Durban Mill,SR03
+SO5222,EcoCartons,Corrugating Medium,110.34,591.45,2025-01-30,Pietermaritzburg Mill,SR02
+SO5223,PaperTrade Ltd,Specialty Paper,154.72,577.31,2025-05-06,Durban Mill,SR04
+SO5224,PackCo,Corrugating Medium,112.26,685.92,2025-02-03,Pietermaritzburg Mill,SR04
+SO5225,MegaPackaging,Specialty Paper,129.05,837.38,2025-01-15,Pietermaritzburg Mill,SR04
+SO5226,PaperTrade Ltd,Unbleached Pulp,90.96,559.59,2025-07-05,Durban Mill,SR04
+SO5227,GreenWrap,Kraft Linerboard,103.8,568.67,2025-07-10,Durban Mill,SR01
+SO5228,PackCo,Corrugating Medium,150.4,666.38,2025-03-30,Pietermaritzburg Mill,SR01
+SO5229,EcoCartons,Kraft Linerboard,79.04,672.16,2025-01-18,Richards Bay Mill,SR01
+SO5230,GreenWrap,Corrugating Medium,49.59,533.41,2025-02-16,Durban Mill,SR04
+SO5231,GreenWrap,Corrugating Medium,126.01,571.17,2025-04-25,Richards Bay Mill,SR04
+SO5232,PackCo,Specialty Paper,58.59,714.4,2025-02-04,Pietermaritzburg Mill,SR03
+SO5233,PackCo,Bleached Pulp,125.57,736.27,2025-05-18,Richards Bay Mill,SR02
+SO5234,PaperTrade Ltd,Bleached Pulp,119.88,559.18,2025-01-01,Durban Mill,SR03
+SO5235,MegaPackaging,Specialty Paper,47.35,830.16,2025-04-19,Pietermaritzburg Mill,SR04
+SO5236,Boxify,Bleached Pulp,80.32,619.9,2025-04-28,Richards Bay Mill,SR02
+SO5237,GreenWrap,Bleached Pulp,129.85,716.75,2025-07-05,Durban Mill,SR01
+SO5238,PaperTrade Ltd,Corrugating Medium,103.68,909.8,2025-06-07,Durban Mill,SR02
+SO5239,Boxify,Kraft Linerboard,70.69,761.34,2025-01-26,Pietermaritzburg Mill,SR01
+SO5240,MegaPackaging,Specialty Paper,91.71,682.23,2025-06-22,Pietermaritzburg Mill,SR01
+SO5241,Boxify,Kraft Linerboard,135.85,710.94,2025-04-13,Richards Bay Mill,SR02
+SO5242,EcoCartons,Bleached Pulp,106.15,778.7,2025-07-13,Durban Mill,SR02
+SO5243,EcoCartons,Unbleached Pulp,79.05,549.29,2025-03-01,Pietermaritzburg Mill,SR03
+SO5244,EcoCartons,Specialty Paper,58.66,414.04,2025-07-17,Pietermaritzburg Mill,SR03
+SO5245,Boxify,Unbleached Pulp,151.69,517.61,2025-02-06,Pietermaritzburg Mill,SR02
+SO5246,MegaPackaging,Unbleached Pulp,83.36,616.78,2025-03-12,Durban Mill,SR02
+SO5247,PaperTrade Ltd,Corrugating Medium,99.22,747.89,2025-05-23,Richards Bay Mill,SR01
+SO5248,GreenWrap,Corrugating Medium,115.81,580.03,2025-05-15,Richards Bay Mill,SR04
+SO5249,MegaPackaging,Bleached Pulp,84.99,683.91,2025-03-18,Richards Bay Mill,SR02

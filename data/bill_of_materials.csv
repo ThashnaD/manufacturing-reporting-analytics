@@ -1,0 +1,16 @@
+product,material,qty_required_per_ton
+Kraft Linerboard,Starch,0.492
+Kraft Linerboard,Wood Chips,0.84
+Kraft Linerboard,Bleach,0.59
+Bleached Pulp,Process Water,1.159
+Bleached Pulp,Wood Chips,0.343
+Bleached Pulp,Bleach,0.632
+Unbleached Pulp,Starch,0.913
+Unbleached Pulp,Wood Chips,1.27
+Unbleached Pulp,Sulfuric Acid,0.78
+Corrugating Medium,Process Water,0.633
+Corrugating Medium,Caustic Soda,1.364
+Corrugating Medium,Clay,0.366
+Specialty Paper,Wood Chips,0.14
+Specialty Paper,Clay,0.932
+Specialty Paper,Bleach,0.649

@@ -1,0 +1,22 @@
+material,plant,stock_qty,reorder_level,last_updated
+Wood Chips,Durban Mill,555.3,116,2025-02-02
+Wood Chips,Richards Bay Mill,441.0,170,2025-06-09
+Wood Chips,Pietermaritzburg Mill,504.31,262,2025-05-30
+Caustic Soda,Durban Mill,691.77,240,2025-03-25
+Caustic Soda,Richards Bay Mill,528.66,197,2025-06-02
+Caustic Soda,Pietermaritzburg Mill,506.97,235,2025-03-17
+Sulfuric Acid,Durban Mill,296.02,216,2025-05-10
+Sulfuric Acid,Richards Bay Mill,611.94,254,2025-04-21
+Sulfuric Acid,Pietermaritzburg Mill,596.82,125,2025-06-29
+Starch,Durban Mill,824.49,129,2025-06-17
+Starch,Richards Bay Mill,453.83,266,2025-05-22
+Starch,Pietermaritzburg Mill,532.87,284,2025-02-25
+Clay,Durban Mill,537.41,210,2025-04-26
+Clay,Richards Bay Mill,736.62,158,2025-04-16
+Clay,Pietermaritzburg Mill,485.71,186,2025-04-27
+Bleach,Durban Mill,541.85,202,2025-04-17
+Bleach,Richards Bay Mill,591.18,286,2025-01-25
+Bleach,Pietermaritzburg Mill,527.99,180,2025-04-20
+Process Water,Durban Mill,433.03,180,2025-06-20
+Process Water,Richards Bay Mill,529.11,165,2025-04-06
+Process Water,Pietermaritzburg Mill,661.04,139,2025-06-25
