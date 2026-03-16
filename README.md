@@ -86,6 +86,7 @@ Total tons produced
 Actual vs planned production by machine
 Production distribution across mills
 This helps identify which machines are performing well and where there might be operational issues.
+![Dashboard](Dashboard1.png)
 
 # Mill and Material Analysis
 
@@ -102,6 +103,7 @@ The idea is simple: compare actual production against planned production.
 
 Efficiency = DIVIDE( SUM(analytics_vw_machine_summary[actual_production]), SUM(analytics_vw_machine_summary[planned_production]) )
 This gives a quick sense of whether production is meeting expectations.
+![Dashboard](Dashboard2.png)
 
 # What I Noticed From The Dashboard
 
