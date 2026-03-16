@@ -103,7 +103,7 @@ The idea is simple: compare actual production against planned production.
 
 Efficiency = DIVIDE( SUM(analytics_vw_machine_summary[actual_production]), SUM(analytics_vw_machine_summary[planned_production]) )
 This gives a quick sense of whether production is meeting expectations.
-![Dashboard](Dashboard2.png)
+![Dashboard](screenshots/Dashboard2.png)
 
 # What I Noticed From The Dashboard
 
