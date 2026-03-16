@@ -86,7 +86,7 @@ Total tons produced
 Actual vs planned production by machine
 Production distribution across mills
 This helps identify which machines are performing well and where there might be operational issues.
-![Dashboard](Dashboard1.png)
+![Dashboard](screenshots/Dashboard1.png)
 
 # Mill and Material Analysis
 
